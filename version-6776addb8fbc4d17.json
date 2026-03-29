@@ -1,3 +1,32 @@
 {
-  
+  "ClientVersion": "version-6776addb8fbc4d17",
+  "DataModel": {
+    "FakeDataModel": 127246552,
+    "RealDataModel": 448,
+    "IsLoaded": 1536
+  },
+  "Instance": {
+    "ChildrenStart": 120,
+    "ChildrenEnd": 8,
+    "ClassDescriptor": 	24,
+    "ClassName": 8,
+    "Name": 176,
+    "Value": 	208,
+    "Visible": 1461
+  },
+  "Script": {
+    "ModuleFlags": 378,
+    "IsCoreScript": 384,
+    "ScriptBytecode": 0,
+    "ModuleBytecode": 336,
+    "EnableLoadModule": 120492344
+  },
+  "TaskScheduler": {
+    "Pointer": 127960848,
+    "MaxFPS": 176
+  },
+  "Player": {
+    "LocalPlayer": 	424,
+    "UserId": 712
+  }
 }
