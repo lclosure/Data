@@ -1,9 +1,9 @@
 {
-  "ClientVersion": "version-6776addb8fbc4d17",
+  "ClientVersion": "version-689e359b09ad43b0",
   "DataModel": {
-    "FakeDataModel": 127246552,
+    "FakeDataModel": 137669000,
     "RealDataModel": 448,
-    "IsLoaded": 1536
+    "IsLoaded": 1528
   },
   "Instance": {
     "ChildrenStart": 120,
@@ -16,16 +16,16 @@
   "Script": {
     "ModuleFlags": 378,
     "IsCoreScript": 384,
-    "ScriptBytecode": 0,
+    "ScriptBytecode": 424,
     "ModuleBytecode": 336,
-    "EnableLoadModule": 120492344
+    "EnableLoadModule": 130878376
   },
   "TaskScheduler": {
-    "Pointer": 127960848,
+    "Pointer": 138576264,
     "MaxFPS": 176
   },
   "Player": {
-    "LocalPlayer": 424,
+    "LocalPlayer": 304,
     "UserId": 712
   }
 }
