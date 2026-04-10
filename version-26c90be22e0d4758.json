@@ -1,7 +1,7 @@
 {
-  "ClientVersion": "version-689e359b09ad43b0",
+  "ClientVersion": "version-26c90be22e0d4758",
   "DataModel": {
-    "FakeDataModel": 137669000,
+    "FakeDataModel": 128045960,
     "RealDataModel": 448,
     "IsLoaded": 1528
   },
@@ -18,10 +18,10 @@
     "IsCoreScript": 384,
     "ScriptBytecode": 424,
     "ModuleBytecode": 336,
-    "EnableLoadModule": 130878376
+    "EnableLoadModule": 121262312
   },
   "TaskScheduler": {
-    "Pointer": 138576264,
+    "Pointer": 128929936,
     "MaxFPS": 176
   },
   "Player": {
