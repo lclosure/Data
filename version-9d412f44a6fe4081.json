@@ -1,7 +1,7 @@
 {
-  "ClientVersion": "version-26c90be22e0d4758",
+  "ClientVersion": "version-9d412f44a6fe4081",
   "DataModel": {
-    "FakeDataModel": 128045960,
+    "FakeDataModel": 128514312,
     "RealDataModel": 448,
     "IsLoaded": 1528
   },
@@ -21,7 +21,7 @@
     "EnableLoadModule": 121262312
   },
   "TaskScheduler": {
-    "Pointer": 128929936,
+    "Pointer": 129404672,
     "MaxFPS": 176
   },
   "Player": {
